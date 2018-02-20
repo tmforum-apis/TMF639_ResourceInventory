@@ -1,4 +1,4 @@
-# WIP_TMF639_ResourceInventory
+# TMF639_ResourceInventory
 TM Forum Open APIs (Apache 2.0) Resource Inventory Management API
 
 Provides a standard mechanism for querying and manipulating the resource inventory
