@@ -3,7 +3,7 @@
     "info": {
         "title": "Resource Inventory Management",
         "description": "This is Swagger UI environment generated for the TMF Resource Inventory Management specification",
-        "version": "4.0"
+        "version": "4.0.0"
     },
     "host": "serverRoot",
     "basePath": "/tmf-api/resourceInventoryManagement/v4/",
