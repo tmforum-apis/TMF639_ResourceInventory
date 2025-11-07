@@ -1,9 +1,8 @@
-# TMF639_ResourceInventory
-TM Forum Open APIs (Apache 2.0) Resource Inventory Management API
+# TMF639 ResourceInventory
 
-Provides a standard mechanism for querying and manipulating the resource inventory
+TM Forum Open API (Apache 2.0) ResourceInventory API.
 
-To access this API; (the Specification, Postman Collection, Swagger file, Swagger-UI, 
-Reference Implementation, Conformance Profile, and CTK) go to the Open API table at:
+TM Forum Open API for ResourceInventory.
 
-https://projects.tmforum.org/wiki/display/API/Open+API+Table
+The resources in this repository are a mirror of the official versions, published here for your convenience.
+The authoritative source of information for this API is: https://www.tmforum.org/oda/open-apis/directory/
